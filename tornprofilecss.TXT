@@ -1,0 +1,8 @@
+ #tornprofilewrapper{ background-image: url('https://i.imgur.com/ZqxLyUo.jpeg'); background-attachment: fixed;
+  background-size: cover; background-position: center; border: 1px solid #dda0dd; cursor:
+  url('https://i.imgur.com/62HGHkj.png'), auto; } .TornH1{ font-size: 1.5rem; color: #74c0fc;
+  padding:5px;background-color: rgba(0, 0, 0, 0.5); width: 100% } .TornH1:hover{Color:white; text-shadow: 2px 2px
+  black;} .TornImage { width:450px; height: auto; border: 2px solid #333;margin:0 auto; border-radius: 10px; box-shadow:
+  3px 3px 5px rgba(0, 0, 0, 0.2); transform: rotate(0deg); transition: transform 0.5s ease-in-out; } .TornImage:hover{
+  filter: invert(75%); transform: rotate(45deg); }.tornprofileiframe { box-shadow: 5px 5px 10px rgba(0, 0, 53, .8);
+  border: 1px solid #74c0fc;}
