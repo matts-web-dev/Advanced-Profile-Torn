@@ -4,16 +4,31 @@
     background-size: cover;
     background-position: center;
     border: 1px solid #dda0dd;
-    cursor:
-        url('https://i.imgur.com/62HGHkj.png'), auto;
+    cursor:url('https://i.imgur.com/62HGHkj.png'), auto;
+    
 }
+#tornprofilewrapper a{
+    color: #74c0fc;
+    font-size: 1rem;
+    text-decoration: underline;
 
+}
+#tornprofilewrapper a:hover{
+    color: #74c0fc;
+    font-size: 1.2rem;
+
+}
+#tornprofilewrapper p{
+ color: whitesmoke;
+ box-shadow:3px 3px 5px rgba(0, 0, 0, 0.5);
+
+}
 .TornH1 {
     font-size: 1.5rem;
     color: #74c0fc;
     padding: 5px;
     background-color: rgba(0, 0, 0, 0.5);
-    width: 100%
+    width: 100%;
 }
 
 .TornH1:hover {
@@ -39,6 +54,9 @@
 }
 
 .tornprofileiframe {
+    margin: 0 auto;
     box-shadow: 5px 5px 10px rgba(0, 0, 53, .8);
     border: 1px solid #74c0fc;
 }
+
+
