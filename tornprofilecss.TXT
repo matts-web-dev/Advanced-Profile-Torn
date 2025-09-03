@@ -9,22 +9,26 @@
 }
 #tornprofilewrapper a{
     color: #74c0fc;
-    font-size: 1rem;
+    font-size: 20px;
     text-decoration: underline;
 
 }
 #tornprofilewrapper a:hover{
     color: #74c0fc;
-    font-size: 1.2rem;
+    font-size: 23px;
 
 }
 #tornprofilewrapper p{
+ font-size: 25px;
  color: whitesmoke;
  box-shadow:3px 3px 5px rgba(0, 0, 0, 0.5);
 
 }
+span{
+    font-size: 25px;
+}
 .TornH1 {
-    font-size: 1.5rem;
+    font-size: 30px;
     color: #74c0fc;
     padding: 5px;
     background-color: rgba(0, 0, 0, 0.5);
@@ -58,5 +62,7 @@
     box-shadow: 5px 5px 10px rgba(0, 0, 53, .8);
     border: 1px solid #74c0fc;
 }
+
+
 
 
