@@ -14,8 +14,9 @@
 
 }
 #tornprofilewrapper a:hover{
-    color: #74c0fc;
+    color: whitesmoke;
     font-size: 23px;
+    text-decoration: underline;
 
 }
 #tornprofilewrapper p{
@@ -24,8 +25,8 @@
  box-shadow:3px 3px 5px rgba(0, 0, 0, 0.5);
 
 }
-span{
-    font-size: 25px;
+#tornprofilewrapper span{
+    font-size: 20px;
 }
 .TornH1 {
     font-size: 30px;
@@ -62,6 +63,7 @@ span{
     box-shadow: 5px 5px 10px rgba(0, 0, 53, .8);
     border: 1px solid #74c0fc;
 }
+
 
 
 
