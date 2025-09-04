@@ -1,5 +1,5 @@
 $(document).ready(function() {
     console.clear();
-    console.log("Document read")
+    console.log("Document ready")
     // Your code here
 });
