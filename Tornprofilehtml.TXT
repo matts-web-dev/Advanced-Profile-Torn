@@ -36,12 +36,8 @@
           title="Visitor Count"
           src="https://counter1.optistats.ovh/private/freecounterstat.php?c=pprher64z9jerr2wy3c5j1tlt2xdhsf6"
           alt="freecounterstat.php?c=s57qhd1njfz7t85745kdb5eeh67ew13u" /></a>
-        <script>
-        console.clear()
-        console.log('Testing inline js');
-
-        </script>
   </div>
+
 
 
 
