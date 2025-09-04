@@ -50,7 +50,7 @@
     box-shadow:
         3px 3px 5px rgba(0, 0, 0, 0.2);
     transform: rotate(0deg);
-    transition: transform 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
 }
 
 .TornImage:hover {
@@ -63,3 +63,4 @@
     box-shadow: 5px 5px 10px rgba(0, 0, 53, .8);
     border: 1px solid #74c0fc;
 }
+
