@@ -23,7 +23,7 @@
       </br></br></br>
       <span class="TornH1">This profile is powered by Torn Advanced Profile Script</span> </br>
       <p> Where you can use id's and
-        classes to style your elements along with other css property's </p> </br> <img class="TornImage "
+        classes to style your elements along with other css properties</p> </br> <img class="TornImage "
         src="https://profileimages.torn.com/8bfe7cec-bc28-4263-b516-1bd02b405f9f-1894605.gif" alt="gif"> </br> <img
         class="TornImage " src="https://i.imgur.com/ObkXUkR.png" alt="gif"> </br>
       <p>Hover on the images above to see the
