@@ -1,4 +1,4 @@
- <div id="tornprofilewrapper">
+<div id="tornprofilewrapper">
     <br>
     <span class="TornH1">Back from a seven-year break: 6/28/25</span>
     </br>
@@ -22,9 +22,9 @@
       </br> <span class="smallspan"style="color: red;">All playlist links are from YouTube / may contain graphic language. </span>
       </br></br></br>
       <span class="TornH1">This profile is powered by Torn Advanced Profile Script</span> </br>
-      <p> Where you can use id's and
+      <p > Where you can use id's and
         classes to style your elements along with other css properties</p> </br> <img class="TornImage "
-        src="https://profileimages.torn.com/8bfe7cec-bc28-4263-b516-1bd02b405f9f-1894605.gif" alt="gif"> </br> <img
+        src="https://profileimages.torn.com/8bfe7cec-bc28-4263-b516-1bd02b405f9f-1894605.gif" alt="gif">  <img
         class="TornImage " src="https://i.imgur.com/ObkXUkR.png" alt="gif"> </br>
       <p>Hover on the images above to see the
         hover effect. </p> </br> </br> </br><span class="TornH1"> <img style="border: 1.5px solid #74c0fc;"
