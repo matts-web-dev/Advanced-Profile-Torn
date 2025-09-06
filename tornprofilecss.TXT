@@ -95,5 +95,6 @@
     box-shadow: 5px 5px 10px rgba(0, 0, 53, .8);
     border: 1px solid #74c0fc;
     width: 90%;
+    max-width: 560px;
   aspect-ratio: 16 / 9;
 }
